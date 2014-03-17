@@ -1,0 +1,8 @@
+test:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: hstore_dup_bug_test
+  pool: 5
+  username: user
+  password: pass
